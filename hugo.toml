@@ -1,0 +1,4 @@
+baseURL = 'https://nicowong.me/'
+languageCode = 'en-us'
+title = 'My Hugo Site'
+theme = 'archie'

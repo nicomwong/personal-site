@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Hugo Site</title>
+    <link>https://nicowong.me/posts/</link>
+    <description>Recent content in Posts on My Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2023 12:49:32 -0700</lastBuildDate><atom:link href="https://nicowong.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Post</title>
+      <link>https://nicowong.me/posts/first_post/</link>
+      <pubDate>Mon, 03 Jul 2023 12:49:32 -0700</pubDate>
+      
+      <guid>https://nicowong.me/posts/first_post/</guid>
+      <description>This is bold text. This is emphasized text.</description>
+    </item>
+    
+  </channel>
+</rss>
