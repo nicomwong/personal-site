@@ -1,5 +1,5 @@
 ---
-title: "My_wants"
+title: "Wants"
 date: 2023-07-04T12:52:46-07:00
 ---
 
