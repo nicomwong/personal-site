@@ -1,4 +1,4 @@
-baseURL = 'https://nicowong.me/'
+baseURL = 'https://nicomwong.github.io/personal-site/'
 languageCode = 'en-us'
-title = 'My Hugo Site'
+title = 'Nico Wong'
 theme = 'archie'
