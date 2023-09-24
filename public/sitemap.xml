@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nicowong.me/posts/first_post/</loc>
-    <lastmod>2023-07-03T12:49:32-07:00</lastmod>
+    <loc>https://nicomwong.github.io/personal-site/</loc>
+    <lastmod>2023-07-04T12:52:46-07:00</lastmod>
   </url><url>
-    <loc>https://nicowong.me/</loc>
-    <lastmod>2023-07-03T12:49:32-07:00</lastmod>
+    <loc>https://nicomwong.github.io/personal-site/posts/</loc>
+    <lastmod>2023-07-04T12:52:46-07:00</lastmod>
   </url><url>
-    <loc>https://nicowong.me/posts/</loc>
-    <lastmod>2023-07-03T12:49:32-07:00</lastmod>
+    <loc>https://nicomwong.github.io/personal-site/posts/wants/</loc>
+    <lastmod>2023-07-04T12:52:46-07:00</lastmod>
   </url><url>
-    <loc>https://nicowong.me/categories/</loc>
+    <loc>https://nicomwong.github.io/personal-site/posts/enlightenment/</loc>
+    <lastmod>2023-07-03T16:43:53-07:00</lastmod>
   </url><url>
-    <loc>https://nicowong.me/tags/</loc>
+    <loc>https://nicomwong.github.io/personal-site/categories/</loc>
+  </url><url>
+    <loc>https://nicomwong.github.io/personal-site/tags/</loc>
   </url>
 </urlset>

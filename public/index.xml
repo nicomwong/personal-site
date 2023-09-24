@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Hugo Site</title>
-    <link>https://nicowong.me/</link>
-    <description>Recent content on My Hugo Site</description>
+    <title>Nico Wong</title>
+    <link>https://nicomwong.github.io/personal-site/</link>
+    <description>Recent content on Nico Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2023 12:49:32 -0700</lastBuildDate><atom:link href="https://nicowong.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jul 2023 12:52:46 -0700</lastBuildDate><atom:link href="https://nicomwong.github.io/personal-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Post</title>
-      <link>https://nicowong.me/posts/first_post/</link>
-      <pubDate>Mon, 03 Jul 2023 12:49:32 -0700</pubDate>
+      <title>Wants</title>
+      <link>https://nicomwong.github.io/personal-site/posts/wants/</link>
+      <pubDate>Tue, 04 Jul 2023 12:52:46 -0700</pubDate>
       
-      <guid>https://nicowong.me/posts/first_post/</guid>
-      <description>This is bold text. This is emphasized text.</description>
+      <guid>https://nicomwong.github.io/personal-site/posts/wants/</guid>
+      <description> (Spiritually) teach others (for the benefit of all sentient beings) Be together with Claire Chen Complete Enlightenment </description>
+    </item>
+    
+    <item>
+      <title>Enlightenment</title>
+      <link>https://nicomwong.github.io/personal-site/posts/enlightenment/</link>
+      <pubDate>Mon, 03 Jul 2023 16:43:53 -0700</pubDate>
+      
+      <guid>https://nicomwong.github.io/personal-site/posts/enlightenment/</guid>
+      <description>Knowledge The Four Noble Truths Suffering exists Suffering is rooted in attachment Suffering can be ended The Eightfold Noble Path is the path to the end of suffering Impermanence All (fabricated or conditioned) &amp;ldquo;things&amp;rdquo; are impermanent. (And,) all impermanent things are dukkha (suffering).
+Emptiness There is no self-existing thing that can be found in any phenomena. Thus, phenomena are not-self (and, therefore,) The &amp;ldquo;world&amp;rdquo; is empty of self-existence.
+Dependent Origination/Arising Fabrication is dependent on Ignorance.</description>
     </item>
     
   </channel>
